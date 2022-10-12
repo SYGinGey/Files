@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 08 00:48:19 MSK 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1644270499531
+http\://10.19.87.79\:8081/repository/qa/.error=Could not transfer artifact io.github.bonigarcia\:webdrivermanager\:pom\:3.6.1 from/to nexus (http\://10.19.87.79\:8081/repository/qa/)\: Transfer failed for http\://10.19.87.79\:8081/repository/qa/io/github/bonigarcia/webdrivermanager/3.6.1/webdrivermanager-3.6.1.pom
+@default-bintray-epam-reportportal-http\://dl.bintray.com/epam/reportportal/.lastUpdated=1644270499234
+http\://dl.bintray.com/epam/reportportal/.error=Could not transfer artifact io.github.bonigarcia\:webdrivermanager\:pom\:3.6.1 from/to bintray-epam-reportportal (http\://dl.bintray.com/epam/reportportal)\: Transfer failed for http\://dl.bintray.com/epam/reportportal/io/github/bonigarcia/webdrivermanager/3.6.1/webdrivermanager-3.6.1.pom 502 Bad Gateway
+@default-nexus-http\://10.19.87.79\:8081/repository/qa/.lastUpdated=1644270498797
